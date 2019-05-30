@@ -14,6 +14,7 @@ public class Sample {
 		s.id();
 		s.name();
 	}
+	
 
 }
 
